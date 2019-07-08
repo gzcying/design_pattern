@@ -1,4 +1,4 @@
-package com.chengzi.designpatterns.behavioral_Patterns.CommandPattern_命令模式;
+package com.chengzi.designpatterns.behavioral_Patterns.command_pattern_命令模式;
 
 //https://www.runoob.com/design-pattern/command-pattern.html
 public class CommandPatternDemo {

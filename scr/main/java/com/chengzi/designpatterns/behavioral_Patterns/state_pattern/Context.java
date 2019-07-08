@@ -1,0 +1,17 @@
+package com.chengzi.designpatterns.behavioral_Patterns.state_pattern;
+
+public class Context {
+   private State state;
+ 
+   public Context(){
+      state = null;
+   }
+ 
+   public void setState(State state){
+      this.state = state;     
+   }
+ 
+   public State getState(){
+      return state;
+   }
+}

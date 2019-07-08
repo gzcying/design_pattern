@@ -1,4 +1,4 @@
-package com.chengzi.designpatterns.behavioral_Patterns.Iterator_pattern;
+package com.chengzi.designpatterns.behavioral_Patterns.iterator_pattern;
 
 /**
  * @author chengzi
